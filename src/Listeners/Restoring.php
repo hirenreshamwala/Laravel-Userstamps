@@ -1,6 +1,6 @@
 <?php
 
-namespace Wildside\Userstamps\Listeners;
+namespace XT\Userstamps\Listeners;
 
 class Restoring
 {
